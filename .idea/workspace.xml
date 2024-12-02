@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1be12ee-d1fd-478c-a939-a4552cbd64ff" name="Changes" comment="" />
+    <list default="true" id="e1be12ee-d1fd-478c-a939-a4552cbd64ff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio01.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio02.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio03.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio04.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio05.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio05.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +24,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
@@ -26,7 +40,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python.desafio01.executor": "Run",
+    "Python.desafio02.executor": "Run",
+    "Python.desafio03.executor": "Run",
+    "Python.desafio04.executor": "Run",
+    "Python.desafio05.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="SharedIndexes">
